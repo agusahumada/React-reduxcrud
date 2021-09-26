@@ -27,6 +27,7 @@ const NewProducts = () => {
                                     className="form-control"
                                     placeholder="Precio Producto"
                                     name="precio"
+                                    min="0"
                                 />
                             </div>
 
